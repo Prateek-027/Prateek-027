@@ -1,4 +1,4 @@
-<img width="1237" height="282" alt="image" src="https://github.com/user-attachments/assets/9edeb78f-b279-40bb-aa22-004880e96c1d" /># Hi, I'm Prateek 👋
+# Hi, I'm Prateek 👋
 
 ### Data Analyst | Data Science | Machine Learning
 
