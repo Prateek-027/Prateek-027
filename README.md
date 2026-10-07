@@ -1,72 +1,74 @@
 # Hi, I'm Prateek 👋
 
-### Data Analyst | Aspiring Data Scientist
+### Data Analyst | Data Science | Machine Learning
 
-I work with data to solve analytical and business problems using SQL, Python,
-and machine learning.
+Data professional with 6+ years of experience across healthcare, life sciences, 
+pharmaceutical consulting, and real-world data analytics.
 
-Currently building hands-on projects in:
-- SQL & Advanced SQL
-- Python, Pandas & NumPy
-- Machine Learning
-- Data Analysis & Visualization
-- Healthcare & Real-World Data
+I work with SQL, Python, statistical analysis, machine learning, data visualization, 
+and large-scale healthcare datasets to turn complex data into actionable insights.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages & Querying**
-- Advanced SQL
+**Programming & Data Analysis**
 - Python
-
-**Data Analysis**
+- Advanced SQL
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 
 **Machine Learning**
-- Linear Regression
-- Logistic Regression
+- Regression
+- Classification
 - Decision Trees
 - Random Forest
+- Gradient Boosting
 - XGBoost
-- Model Evaluation & Feature Engineering
+- Feature Engineering
+- Model Evaluation
+- Hyperparameter Tuning
 
-**Databases & Cloud**
+**Data & Cloud**
 - MySQL
-- Amazon Redshift
 - Amazon Athena
+- Amazon Redshift
 - Amazon S3
 
 **Visualization**
 - Power BI
+
+**Healthcare & Life Sciences**
+- Real-World Data
+- Claims & EHR Data
+- Healthcare Analytics
+- Pharmaceutical Analytics
+- Patient & Treatment Analytics
+- Market Research
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🏠 Indian Housing Price Prediction
-End-to-end regression project covering:
-- SQL-based exploratory analysis
-- Python EDA
-- Data preprocessing
-- Feature engineering
-- Regression modeling
-- Model evaluation
-
-[View Project →]([Indian_Housing_Price_prediction]([url](https://github.com/Prateek-027/Indian-Housing-Price-Prediction---End-to-End-Regression-Analysis))))
+End-to-end regression project combining SQL analysis,
+Python-based EDA, preprocessing, feature engineering,
+and machine learning.
+[View Project →]([YOUR_REPO_LINK]([url](https://github.com/Prateek-027/Indian-Housing-Price-Prediction---End-to-End-Regression-Analysis)))
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
+- Advanced Machine Learning
 - Deep Learning
-- AI
+- Generative AI
+- Natural Language Processing
 
 ---
 
 ## 📫 Connect With Me
-[LinkedIN]([url](https://www.linkedin.com/in/prateek-kumar-agr/))
-[LinkedIn](YOUR_LINKEDIN_LINK)
+
+[LinkedIn]([url](https://www.linkedin.com/in/prateek-kumar-agr/))
