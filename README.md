@@ -1,4 +1,4 @@
-# Hi, I'm Prateek 👋
+<img width="1237" height="282" alt="image" src="https://github.com/user-attachments/assets/9edeb78f-b279-40bb-aa22-004880e96c1d" /># Hi, I'm Prateek 👋
 
 ### Data Analyst | Data Science | Machine Learning
 
@@ -56,7 +56,7 @@ and large-scale healthcare datasets to turn complex data into actionable insight
 End-to-end regression project combining SQL analysis,
 Python-based EDA, preprocessing, feature engineering,
 and machine learning.
-[View Project →]([YOUR_REPO_LINK]([url](https://github.com/Prateek-027/Indian-Housing-Price-Prediction---End-to-End-Regression-Analysis)))
+[View Project →](https://github.com/Prateek-027/Indian-Housing-Price-Prediction---End-to-End-Regression-Analysis)
 
 ---
 
@@ -71,4 +71,4 @@ and machine learning.
 
 ## 📫 Connect With Me
 
-[LinkedIn]([url](https://www.linkedin.com/in/prateek-kumar-agr/))
+[LinkedIn](https://www.linkedin.com/in/prateek-kumar-agr/)
